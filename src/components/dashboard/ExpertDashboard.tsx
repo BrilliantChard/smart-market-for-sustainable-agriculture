@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -13,9 +12,9 @@ const expertStats = {
 };
 
 const recentQuestions = [
-  { id: 'Q-123', farmer: 'John Smith', question: 'What's the best way to control aphids on my tomato plants?', status: 'Unanswered', date: '2025-05-05' },
-  { id: 'Q-122', farmer: 'Maria Garcia', question: 'When is the best time to plant onions in Zone 7?', status: 'Answered', date: '2025-05-04' },
-  { id: 'Q-121', farmer: 'Ahmed Hassan', question: 'My cucumber leaves are turning yellow, what could be the cause?', status: 'Answered', date: '2025-05-03' },
+  { id: 'Q-123', farmer: 'John Smith', question: "What's the best way to control aphids on my tomato plants?", status: 'Unanswered', date: '2025-05-05' },
+  { id: 'Q-122', farmer: 'Maria Garcia', question: "When is the best time to plant onions in Zone 7?", status: 'Answered', date: '2025-05-04' },
+  { id: 'Q-121', farmer: 'Ahmed Hassan', question: "My cucumber leaves are turning yellow, what could be the cause?", status: 'Answered', date: '2025-05-03' },
 ];
 
 const upcomingEvents = [

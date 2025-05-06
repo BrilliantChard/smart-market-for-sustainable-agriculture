@@ -30,9 +30,9 @@ const Hero = () => {
               <div className="absolute -top-4 -left-4 w-72 h-72 bg-primary/10 rounded-full blur-3xl z-0"></div>
               <div className="absolute -bottom-8 -right-8 w-72 h-72 bg-accent/10 rounded-full blur-3xl z-0"></div>
               <img 
-                src="/placeholder.svg" 
-                alt="Farmers and buyers connected through SMSA platform" 
-                className="relative z-10 rounded-2xl shadow-xl w-full h-auto"
+                src="/lovable-uploads/160cf809-082e-4009-be7b-8cce704abcb7.png" 
+                alt="Farmer and customer completing a transaction with fresh produce" 
+                className="relative z-10 rounded-2xl shadow-xl w-full h-auto object-cover"
               />
             </div>
           </div>

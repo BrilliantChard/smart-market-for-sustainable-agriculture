@@ -34,7 +34,13 @@ const Index = () => {
                     "SMSA has transformed how I sell my produce. I now have direct access to buyers and get fair prices for my hard work. The platform is easy to use, even for someone like me who isn't tech-savvy."
                   </p>
                   <div className="flex items-center">
-                    <div className="h-12 w-12 rounded-full bg-gray-300 mr-4"></div>
+                    <div className="h-12 w-12 rounded-full overflow-hidden bg-gray-300 mr-4">
+                      <img 
+                        src="/lovable-uploads/b8e76ba5-0c41-49aa-be8e-ec6ace928072.png" 
+                        alt="Michael Johnson" 
+                        className="h-full w-full object-cover"
+                      />
+                    </div>
                     <div>
                       <h4 className="font-semibold">Michael Johnson</h4>
                       <p className="text-sm text-gray-500">Vegetable Farmer</p>

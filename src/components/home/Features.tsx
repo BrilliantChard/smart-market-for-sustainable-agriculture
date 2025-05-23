@@ -95,7 +95,7 @@ const Features = () => {
             </div>
             <div className="md:w-1/2">
               <img 
-                src="/placeholder.svg" 
+                src="/lovable-uploads/b8e76ba5-0c41-49aa-be8e-ec6ace928072.png" 
                 alt="SMSA platform ecosystem" 
                 className="rounded-xl shadow-lg w-full h-auto"
               />
